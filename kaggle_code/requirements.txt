@@ -1,0 +1,5 @@
+ einops==0.7.0
+sacred==0.8.5
+pytorch_lightning==1.1.4
+torchtext==0.6.0
+pyarrow==15.0.0
